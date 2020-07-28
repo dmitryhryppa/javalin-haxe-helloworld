@@ -1,0 +1,9 @@
+libs.hxml
+
+-p src
+-m Main
+#--jvm ./bin/Main.jar
+--java ./bin
+
+-dce full
+-D analyzer-optimize

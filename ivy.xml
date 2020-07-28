@@ -1,0 +1,6 @@
+<ivy-module version="2.0">
+	<info organisation="com.example" module="javalin-haxe-helloworld"/>
+	<dependencies>
+		<dependency org="io.javalin" name="javalin" rev="3.9.1" />
+	</dependencies>
+</ivy-module>
